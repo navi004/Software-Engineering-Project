@@ -27,3 +27,8 @@
 
 ![image](https://github.com/navi004/Software-Engineering-Project/assets/115283282/7e4e1ecd-f50a-40c2-bc73-ac902166f35a)
 
+## Exit:
+* *Users can exit the application when they are done.*
+
+*The project employs a MySQL database to store information about ambulance drivers and hospitals. It retrieves relevant data when searching for the nearest ambulance and hospital details.*
+*The Nearest Ambulance Locator is designed to be a user-friendly and essential tool for emergencies. It provides a simple and efficient way for users to access potentially life-saving information in critical situations.*
