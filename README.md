@@ -6,7 +6,7 @@
 * *The application allows users to create a user profile by entering their name and mobile number.*
 * *This profile information is stored temporarily and can be accessed for future reference.*
 
-![image](https://github.com/navi004/Software-Engineering-Project/assets/115283282/9ee42cde-c2ce-4b1b-bfbb-55c8c79e42b0)
+![image](https://github.com/navi004/Software-Engineering-Project/assets/115283282/5d2b0579-6637-4516-b709-a25cb4454867)
 
 ![image](https://github.com/navi004/Software-Engineering-Project/assets/115283282/97085297-c3e6-46e8-abcd-024e02d4c65d)
 
