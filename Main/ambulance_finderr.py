@@ -139,4 +139,8 @@ window.title("Nearest Ambulance Finder")
 
 window.configure(bg = "LightBlue")
 Menu()
+author_label = tk.Label(window, text="By : Naveen N (22MIA1049)", anchor="w", padx=10, pady=5, font=("Arial", 8),bg="lightblue")
+author_label.pack(side="bottom", anchor="w")
 window.mainloop()
+
+DB_connection.close()
